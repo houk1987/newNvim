@@ -1,1 +1,1 @@
-require 'core.lazyPlugins'
+	require 'core.lazyPlugins'
